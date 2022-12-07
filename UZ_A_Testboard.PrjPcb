@@ -252,17 +252,21 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EQIUAXID
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for UZ_A_Testboard\Design Rule Check - UZ_A_Testboard.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=ProjectRevision
-Value=Rev01
+Name=AuthorParam
+Value=Andreas Geiger
 
 [Parameter2]
 Name=ProjectDate
 Value=04/2021
 
 [Parameter3]
-Name=AuthorParam
-Value=Andreas Geiger
+Name=ProjectRevision
+Value=Rev01
 
 [Configuration1]
 Name=Sources

@@ -2,6 +2,45 @@
 FileName = UZ_A_Testboard.GBR
 AutoAperture = True
 *************************************************************
+Generating : Mechanical 1
+      File : UZ_A_Testboard.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D90
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : UZ_A_Testboard.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : UZ_A_Testboard.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : L04_BottomLayer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+*************************************************************
+
+*************************************************************
 Generating : Bottom Mask
       File : UZ_A_Testboard.GBS
 
@@ -136,6 +175,41 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : L04_BottomLayer
+      File : UZ_A_Testboard.GBL
+
+    Adding Layer      : L04_BottomLayer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D17
+    D18
+    D21
+    D22
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+*************************************************************
+
+*************************************************************
 Generating : L03_VCC
       File : UZ_A_Testboard.G2
 
@@ -155,7 +229,6 @@ Used DCodes :
     D86
     D87
     D88
-    D89
 *************************************************************
 
 *************************************************************
@@ -176,7 +249,6 @@ Used DCodes :
     D86
     D87
     D88
-    D89
 *************************************************************
 
 *************************************************************
@@ -228,81 +300,5 @@ Used DCodes :
     D86
     D87
     D88
-    D89
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : UZ_A_Testboard.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-    D10
-    D91
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : UZ_A_Testboard.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : UZ_A_Testboard.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : L04_BottomLayer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D21
-    D22
-*************************************************************
-
-*************************************************************
-Generating : L04_BottomLayer
-      File : UZ_A_Testboard.GBL
-
-    Adding Layer      : L04_BottomLayer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D17
-    D18
-    D21
-    D22
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
 *************************************************************
 
